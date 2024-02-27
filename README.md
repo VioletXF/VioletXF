@@ -1,4 +1,4 @@
-👋 Hi! Welcome to my Github!
+👋
 
 I'm building a cross platform BMS player - [iBMSUnreal](https://github.com/SNURhythm/iBMSUnreal) / [OpenBMS](https://github.com/SNURhythm/OpenBMS)
 
