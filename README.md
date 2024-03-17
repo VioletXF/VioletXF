@@ -2,6 +2,8 @@
 
 I'm building a cross platform BMS player - [iBMSUnreal](https://github.com/SNURhythm/iBMSUnreal) / [OpenBMS](https://github.com/SNURhythm/OpenBMS)
 
+Open source BMS parser - [bms-parser-cpp](https://github.com/SNURhythm/bms-parser-cpp)
+
 [My blog (WIP)](https://VioletXF.github.io)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVioletXF)](https://hits.seeyoufarm.com)
